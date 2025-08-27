@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=40&pause=1000&color=9350B9&vCenter=true&width=530&height=40&lines=Ol%C3%A1+eu+sou+o+Brendo+Reis!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=40&pause=1000&color=9350B9&vCenter=true&width=530&height=40&lines=Ol%C3%A1+Caio+Merejoli)](https://git.io/typing-svg)
 
 ## Sobre mim
 
@@ -20,8 +20,3 @@
  [![brendoreisdev 's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brendoreisdev&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)](https://github.com/brendoreisdev/github-readme-stats)
 
 ## Me siga nas redes sociais!
-
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)]((https://www.linkedin.com/in/caio-merejoli-13aa06377/))
-
-[![Instagram](https://skillicons.dev/icons?i=instagram&theme=light)](https://linkedin.com/in/imbrendoo)

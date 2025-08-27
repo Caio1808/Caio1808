@@ -1,12 +1,12 @@
-<h1 style="
-  color: red;
-  text-shadow: 0 0 5px red, 0 0 10px red, 0 0 20px red, 0 0 40px red;
+<html><head></head><body><h1 style="
+  color: rgb(255, 0, 0);
+  text-shadow: 0 0 5px rgba(255, 0, 0, 0.938), 0 0 10px rgba(255, 0, 0, 0.301), 0 0 20px rgba(255, 0, 0, 0.356), 0 0 40px rgb(255, 0, 0);
   font-family: 'Arial Black', sans-serif;
   font-size: 60px;
   text-align: center;
 ">
   Caio Merejoli
-</h1>
+</h1></body></html>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=40&pause=1000&color=9350B9&vCenter=true&width=530&height=40&lines=Ol%C3%A1+Caio+Merejoli)](https://git.io/typing-svg)
 
